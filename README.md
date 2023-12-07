@@ -1,4 +1,4 @@
 
 OOP Project
 
-// TODO add descriptions 
+Була реалізована невелика 3D гра, з використанням бібліотек OpenGL та SFML
